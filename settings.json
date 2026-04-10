@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "24/7",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "deadzone.progamer.me",
+    "port": 16067,
     "version": "",
     "try-creative": false
   },
